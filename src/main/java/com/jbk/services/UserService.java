@@ -1,5 +1,10 @@
 package com.jbk.services;
 
-public class UserService {
+import com.jbk.model.UserLogin;
+import com.jbk.model.UserRegistration;
+
+public interface UserService {
+	void register (UserRegistration user);
+	UserRegistration validateUser(UserLogin login);
 
 }
