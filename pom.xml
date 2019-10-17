@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>SpringDemo Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <dependencies>
+  <dependencies>AaS
 
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -27,7 +27,7 @@
     </dependency>
     
     
-    
+    s
     <dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
