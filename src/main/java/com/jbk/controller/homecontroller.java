@@ -1,4 +1,4 @@
-package com.jbk;
+package com.jbk.controller;
 
 import javax.servlet.http.HttpServletResponse;
 
